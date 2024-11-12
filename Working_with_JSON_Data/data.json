@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Mobile",
+    "category": "Electronics",
+    "price": 10000,
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "T-shirt",
+    "category": "Clothing",
+    "price": 400,
+    "available": false
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 60000,
+    "available": false
+  },
+  {
+    "id": 4,
+    "name": "Jeans",
+    "category": "Clothing",
+    "price": 950,
+    "available": true
+  }
+]
